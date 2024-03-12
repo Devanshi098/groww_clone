@@ -2,9 +2,9 @@ Groww Clone - README
 This project is a clone of the Groww investment platform, aiming to replicate its core functionalities.
 
 Features (Possible Implementation)
-Real time stock data
-Interactive design
-Visually amicable UI components
+Real time stock data,
+Interactive design,
+Visually amicable UI components.
 
 
 Tech stack:

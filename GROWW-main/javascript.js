@@ -121,7 +121,8 @@ function Login_pop(click)
 
     function continueWithGoogle(click) {
         // Redirect to your main screen page
-        window.location.href = 'http://127.0.0.1:5500/GROWW-main/main_screen.html';
+        window.location.href = "main_screen.html";
+
     }
     
 
